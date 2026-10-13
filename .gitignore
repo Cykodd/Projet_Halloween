@@ -75,6 +75,5 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # NEW IGNORE
-**/LVL_temp.umap
-**/HALLOWEEN_Temp
+
 

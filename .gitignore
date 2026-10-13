@@ -75,5 +75,5 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # NEW IGNORE
-
+**/HALLOWEEN_Temp
 

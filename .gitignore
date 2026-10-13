@@ -73,3 +73,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Level Temp can't commited
+Projet_Halloween\Content\HALLOWEEN_Main_Folder\Level\LVL_temp
+
